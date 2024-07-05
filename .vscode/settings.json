@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "livePreview.defaultPreviewPath": "/2.4 Movie Ranking Project/index.html"
+}
